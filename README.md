@@ -1,6 +1,6 @@
 # careApp
 
-The app name is careApp . This App will help Sunita Sharma as she is (65+ year old) it wil help her to live a healthier and betterlife as the App will show her the data of step count , distance walking , stand time, exercise time, active burned calories. So in this way she will be able maintain her life style to live healthy .
+The app name is careApp .It is an iOS-App. This App will help Sunita Sharma as she is (65+ year old) it wil help her to live a healthier and betterlife as the App will show her the data of step count , distance walking , stand time, exercise time, active burned calories. So in this way she will be able maintain her life style to live healthy .
 
 
 video -
